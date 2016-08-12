@@ -1,1 +1,38 @@
-<session/>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session location="memphis" startDate="08-08-2016">
+	<instructor>
+		<contact first-name="Michael" last-name="Boren">
+			<phone-number>(777) 777-7777</phone-number>
+		</contact>
+	</instructor>
+	<students>
+		<contact first-name="Adam" last-name="Fraser" />
+	</students>
+	<students>
+		<contact first-name="Ben" last-name="Ricks" />
+	</students>
+	<students>
+		<contact first-name="David" last-name="Karl" />
+	</students>
+	<students>
+		<contact first-name="Emmanuel" last-name="Mbaba" />
+	</students>
+	<students>
+		<contact first-name="Giovanny" last-name="Roman" />
+	</students>
+	<students>
+		<contact first-name="Hemal" last-name="Varani" />
+	</students>
+	<students>
+		<contact first-name="Jonathan" last-name="White" />
+	</students>
+	<students>
+		<contact first-name="Martin" last-name="Zakov" />
+	</students>
+	<students>
+		<contact first-name="Nathan" last-name="Fowler" />
+	</students>
+	<students>
+		<contact first-name="Will" last-name="Marttala" />
+	</students>
+</session>
